@@ -1,4 +1,6 @@
 # DuplicatePullRequests
+
+***
 Duplicate Pull Request Detection using an Attention-based Pre-trained Neural Language Model
 ### Context: 
 Open source software community brings together users with common interests to create a healthy open-source project, which can be modified and improved by anyone inside or outside the community via the Pull-Request (PR). However, the PR process is usually uncoordinated and distributed, which could cause massive duplication. Such duplication represents a waste of time and energy for both contributors and reviewers.
